@@ -1,0 +1,16 @@
+1,Harry Potter and Sorcerer's Store   ,736,1200000,novel
+2,Harry Potter and The Chamber of Secrets,900,1300000,novel
+3,Harry Potter and the Prisoner of Azkaban,780,1400000,novel
+4,Harry Potter and The Goblet of Fire,890,1500000,novel
+5,Harry Potter and the Order of the Phoenix,670,1350000,novel
+6,Harry Potter and the Half-Blood Prince,450,1699000,novel
+7,Harry Potter and the Deathly Hallows,780,2100000,novel
+9,Time Tuner Necklace,360,750000,Pernak Pernik
+10,Hogwarts Snow Globe,735,2500000,Pernak Pernik
+11,Deluminator,639,950000,Pernak Pernik
+12,Elder Wand,475,1400000,Pernak Pernik
+13,Figure Golden Trio,550,2100000,Pernak Pernik
+14,Nimbus 2001,890,6000000,Pernak Pernik
+15,Sorting Hat,789,3500000,Pernak Pernik
+16,Piala Triwizard,679,1799000,Pernak Pernik
+8,Jubah Gaib,670,1600000,Pernak Pernik
